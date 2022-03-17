@@ -1,0 +1,36 @@
+- title: About
+  url: /about/index.html
+- title: Contact
+  url: /contact/index.html
+- title: Categories
+  sublinks:
+    - title: Arcade
+      sublinks:
+        - title: Intro
+          url: /code-practice-arcade/code-practice-arcade-intro/README.html
+        - title: Databases
+          url: /code-practice-arcade/code-practice-arcade-databases/README.html
+        - title: The Core
+          url: /code-practice-arcade/code-practice-arcade-thecore/README.html
+        - title: Graphs
+          url: /code-practice-arcade/code-practice-arcade-graphs/README.html
+        - title: Git
+          url: /code-practice-arcade/code-practice-arcade-git/README.html
+        - title: Docker
+          url: /code-practice-arcade/code-practice-arcade-docker/README.html
+        - title: Javascript
+          url: /code-practice-arcade/code-practice-arcade-javascript/README.html
+        - title: Python
+          url: /code-signal-arcade/code-signal-arcade-python/README.html
+        - title: Golang
+          url: /code-signal-arcade/code-signal-arcade-golang/README.html
+        - title: C
+          url: /code-signal-arcade/code-signal-arcade-c/README.html
+        - title: Rust
+          url: /code-signal-arcade/code-signal-arcade-rust/README.html
+    - title: Test
+      sublinks:
+        - title: Practice
+          url: /code-signal-arcade/code-signal-tests-practice/README.html
+        - title: Actual
+          url: /code-signal-arcade/code-signal-tests-actual/README.html

@@ -1,0 +1,3 @@
+[submodule "code-practice-arcade"]
+	path = code-practice-arcade
+	url = git@github.com:everestsh/code-practice-arcade.git
